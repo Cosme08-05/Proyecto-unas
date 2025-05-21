@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: proyecto-unas
-    env: php
-    plan: free
-    buildCommand: ""
-    startCommand: ""
-    rootDir: .
